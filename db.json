@@ -4,37 +4,43 @@
       "id": 1,
       "latitude": 21.00666,
       "longitude": 105.84508,
-      "color": 4280008279
+      "color": 4280008279,
+      "aqi": 20
     },
     {
     "id": 2,
     "latitude": 20.2450,
     "longitude": 105.9756,
-    "color": 4294956544
+    "color": 4294956544,
+    "aqi": 70
     },
     {
     "id": 3,
     "latitude": 21.3743,
     "longitude": 106.4570,
-    "color": 4294344203
+    "color": 4294344203,
+    "aqi": 120
     },
     {
     "id": 4,
     "latitude": 21.1168,
     "longitude": 106.1080,
-    "color": 4292159528
+    "color": 4292159528,
+    "aqi": 170
     },
     {
     "id": 5,
     "latitude": 20.4392,
     "longitude": 106.4747,
-    "color": 4287578006
+    "color": 4287578006,
+    "aqi": 220
     },
     {
     "id": 6,
     "latitude": 20.5338,
     "longitude": 105.9762,
-    "color": 4286382370
+    "color": 4286382370,
+    "aqi": 270
     }
 ]
 }
