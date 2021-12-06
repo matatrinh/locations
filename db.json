@@ -1,14 +1,14 @@
 {
 "locations":[
     {
-      "id": 2,
+      "id": 1,
       "latitude": 21.00666,
       "longitude": 105.84508,
       "color": 4280008279,
       "aqi": "30"
     },
     {
-      "id": 1,
+      "id": 2,
       "latitude": 20.2450,
       "longitude": 105.9756,
       "color": 4294956544,
