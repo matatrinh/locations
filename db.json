@@ -1,32 +1,44 @@
-[
-  {
-    "latitude" : "21.00666",
-    "longitude" : "105.84508",
-    "color" : "0xff1bbe57"
-  },
-  {
-    "latitude" : "20.2450",
-    "longitude" : "105.9756",
-    "color" : "0xffffd600"
-  },
-  {
-    "latitude" : "21.3743",
-    "longitude" : "106.4570",
-    "color" : "0xfff67e0b"
-  },
-  {
-    "latitude" : "21.1168",
-    "longitude" : "106.1080",
-    "color" : "0xffd52828"
-  },
-  {
-    "latitude" : "20.4392",
-    "longitude" : "106.4747",
-    "color" : "0xff8f3f96"
-  },
-  {
-    "latitude" : "20.5338",
-    "longitude" : "105.9762",
-    "color" : "0xff7d0122"
-  }
-]
+{
+  "Ha Noi":[
+    {
+      "latitude": "21.00666",
+      "longitude": "105.84508",
+      "color": "0xff1bbe57"
+    },
+  ],
+  "Ninh Bình":[
+    {
+    "latitude": "20.2450",
+    "longitude": "105.9756",
+    "color": "0xffffd600"
+    },
+  ],
+  "Bắc Giang":[
+    {
+    "latitude": "21.3743",
+    "longitude": "106.4570",
+    "color": "0xfff67e0b"
+    },
+  ],
+  "Bắc Ninh":[
+    {
+    "latitude": "21.1168",
+    "longitude": "106.1080",
+    "color": "0xffd52828"
+    },
+  ],
+  "Thái Bình":[
+    {
+    "latitude": "20.4392",
+    "longitude": "106.4747",
+    "color": "0xff8f3f96"
+    },
+  ],
+  "Hà Nam":[
+    {
+    "latitude": "20.5338",
+    "longitude": "105.9762",
+    "color": "0xff7d0122"
+    }
+  ],
+}
