@@ -1,4 +1,4 @@
-{ "locations":
+[
   {
     "latitude" : "21.00666",
     "longitude" : "105.84508",
@@ -29,4 +29,4 @@
     "longitude" : "105.9762",
     "color" : "0xff7d0122"
   }
-}
+]
